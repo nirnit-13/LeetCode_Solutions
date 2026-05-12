@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
