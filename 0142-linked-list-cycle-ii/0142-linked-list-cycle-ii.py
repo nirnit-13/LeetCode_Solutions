@@ -20,3 +20,4 @@ class Solution:
                     slow = slow.next
                     fast = fast.next
                 return slow
+        return None
