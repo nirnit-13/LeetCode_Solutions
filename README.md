@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
