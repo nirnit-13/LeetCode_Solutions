@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -62,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
