@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
