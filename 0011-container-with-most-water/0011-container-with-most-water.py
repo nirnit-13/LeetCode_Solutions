@@ -3,9 +3,9 @@ class Solution:
         max = 0
         left = 0
         right = len(height)-1
-        for i in range(right):
-            width = right - left
-            water = width * min(height[left], height[right])
+        
+        while left < right:
+            water = (right - left) * min(height[right], height[left])
 
             if water > max:
                 max = water
