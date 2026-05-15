@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nirnit-13/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
